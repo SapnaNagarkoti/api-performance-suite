@@ -1,0 +1,10 @@
+[
+  {
+    "name": "GetBookingEngineConfig",
+    "method": "GET",
+    "url": "https://www.yatra.com/trip/getBookingEngineConfiguration?name=airBookingEngineConfig&name=roleWiseFlowAccessConfig&bookingType=official&tripId=TA0402260011549&isAdmin=false&emu=false",
+    "expectedStatus": 200,
+    "sla": 1200,
+    "auth": true
+  }
+]
